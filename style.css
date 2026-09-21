@@ -4,7 +4,7 @@ html { scroll-behavior: smooth; }
 
 body {
   margin: 0;
-  background: #f5f3ee;
+  background: #f7f7f7;
   color: #171717;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.45;
@@ -109,7 +109,7 @@ figcaption { font-size: 12px; padding-top: 10px; }
 .contact {
   padding: 12vw 5vw;
   background: #171717;
-  color: #f5f3ee;
+  color: #f7f7f7;
 }
 .contact h2 { max-width: 800px; }
 .contact a { text-decoration: underline; text-underline-offset: 5px; }
